@@ -3,4 +3,4 @@
 
 ## [1.깃허브란?]
 
-## [2.깃허브에서 새로운 저장소 저장하는 방법]
+## [2.깃허브에서 새로운 저장소 저장하는 방법](https://github.com/dIronmanb/How_to_use_Github/tree/main/02_01.Create_New_Store_in_Github)
