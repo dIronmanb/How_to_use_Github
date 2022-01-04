@@ -27,9 +27,9 @@ $ git config --global user.email you@example.com
 2. GitHub에서 새로운 저장소 생성하는 방법
 3. GitHub 원격 저장소와 로컬 Git 저장소 연동하는 방법
 4. git init 사용법: Git 저장소를 초기화하는 방법
-5. git clone 사용법: 원격 Git 저장소 복제  
+5. git clone 사용법: 원격 Git 저장소 복제
+6. Git 저장소와 원격 GitHub 저장소를 삭제하는 방법  
 **🦂주의: 한 번 삭제하면 되돌릴 수 없어요.🦂**
-6. Git 저장소와 원격 GitHub 저장소를 삭제하는 방법
 
 ## GitHub 단체(Organization)
 1. Github에서 협업용 단체(Organization) 만드는 방법
