@@ -42,6 +42,8 @@ $ git config --global user.email you@example.com
 4. GitHub 장애 상황을 확인하는 방법
 5. GitHub의 계정 이름 변경하는 방법
 
+## GitHub 오류
+[1. 주소 붙여넣기 시 오류](https://github.com/Lee-JaeWon/How_to_use_Github/blob/main/5.GitHub%20%EC%98%A4%EB%A5%98%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EC%95%88/GitHub_Error.md)
 
 
 
